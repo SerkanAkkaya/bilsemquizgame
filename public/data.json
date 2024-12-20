@@ -1,0 +1,85 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Tasarruf",
+      "question": "Evden çıkarken doğal gaz açık kalsın zaten hemen döneceğim dedin ve kapatmadın.",
+      "correct_answer": "Doğru",
+      "incorrect_answers": ["Yanlış"]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Tasarruf",
+      "question": "Markette, sık kullandığın bir ürünü toplu alım yaparak tasarruf ettin.",
+      "correct_answer": "Doğru",
+      "incorrect_answers": ["Yanlış"]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Tasarruf",
+      "question": "Tüketim tarihi yakın olan yiyecekleri hayvanlara vermek yerine çöpe attın.",
+      "correct_answer": "Yanlış",
+      "incorrect_answers": ["Doğru"]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Tasarruf",
+      "question": "Akşam yatarken telefonun şarjının az olduğunu görüp şarja takıp uyudun",
+      "correct_answer": "Yanlış",
+      "incorrect_answers": ["Doğru"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Tasarruf",
+      "question": "Elektrik tasarrufu sağlamak amacıyla aşağıdaki uygulamalardan hangisi verimli bir enerji kullanımını desteklemez?",
+      "correct_answer": "Elektrikli süpürgenin torbası dolunca hemen değiştirilmemeli, daha uzun süre kullanılmaya çalışılmalıdır.",
+      "incorrect_answers": ["Kullanılmayan elektrikli cihazların tamamen kapalı olduğundan emin olunmalıdır.", "Evdeki ampuller, enerji verimli LED veya tasarruflu lambalarla değiştirilmelidir.", "Enerji verimliliği A+, A++ ve A+++ sınıfında olan bir buzdolabı tercih edilmelidir."]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Tasarruf",
+      "question": "Enerji tasarrufu sağlamak için evde hangi davranış en etkili olabilir?",
+      "correct_answer": " Kullanmadığın ışıkları kapatmak",
+      "incorrect_answers": ["Tüm cihazları açık bırakmak", "Günde 5 defa su kaynatmak", "Televizyonu sürekli çalışır durumda bırakmak"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Tasarruf",
+      "question": "Besinlerden tasarruf yapma ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "correct_answer": " Bazen reklamların etkisiyle alışveriş yaparken ihtiyacımız olmayan gıdaları da alabiliriz.",
+      "incorrect_answers": ["Ailece bir alışveriş listesi hazırlayıp bu listeye sadık kalmalıyız.", "Gıda tasarrufu sağlamak için ihtiyaç duymadığımız gıda ürünlerini almamalıyız.", "Temel ihtiyaçlarımızı karşılamak için yalnızca gerektiği kadar gıda alışverişi yapmalıyız."]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Tasarruf",
+      "question": "Besinlerden tasarruf yapma ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "correct_answer": " Bazen reklamların etkisiyle alışveriş yaparken ihtiyacımız olmayan gıdaları da alabiliriz.",
+      "incorrect_answers": ["Ailece bir alışveriş listesi hazırlayıp bu listeye sadık kalmalıyız.", "Gıda tasarrufu sağlamak için ihtiyaç duymadığımız gıda ürünlerini almamalıyız.", "Temel ihtiyaçlarımızı karşılamak için yalnızca gerektiği kadar gıda alışverişi yapmalıyız."]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Tasarruf",
+      "question": "Aşağıdakilerden hangisi kaynakların bilinçli ve verimli kullanılmasıdır?",
+      "correct_answer": "Tasarruf",
+      "incorrect_answers": ["Masraf", "Savurganlık", "İsraf"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Tasarruf",
+      "question": "Bilinçli tüketici aşağıdakilerden hangisini yapmaz? ",
+      "correct_answer": "İstek ve ihtiyaçlarına aynı ölçüde önem verir.",
+      "incorrect_answers": ["Mal ve hizmet satın aldığında hakkını arar.", "Sağlıklı, güvenli ve çevreye zarar vermeyen ürünü seçer.", "Yüksek kalitedeki mal veya hizmetleri en uygun fiyata alır."]
+    }
+  ]
+}

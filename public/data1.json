@@ -1,0 +1,164 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Tasarruf",
+      "question": "Okulda oluşan plastik atıkları ayrıştırarak belediyenin geri dönüşüm tesisine gönderdiniz.",
+      "correct_answer": "Doğru",
+      "incorrect_answers": ["Yanlış"]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Tasarruf",
+      "question": "Artık kullanmadığın bir eşyanı ikinci el ürün alan sayfalardan satışa çıkardın. DOĞRU",
+      "correct_answer": "Doğru",
+      "incorrect_answers": ["Yanlış"]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Tasarruf",
+      "question": "Uzun süredir aradığın oyunu bir mağazada buldun ve son kalan ürün olduğunu fark ettin. Bir daha bulamayacağını düşünerek arkadaşından ödünç para alıp oyunu satın aldın.",
+      "correct_answer": "Yanlış",
+      "incorrect_answers": ["Doğru"]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Tasarruf",
+      "question": "Arkadaşınla aynı kıyafeti giyme konusunda sözleştiniz. Eve geldiğinde kıyafetinin kirlide olduğunu gördün ve hemen makineye atıp yıkadın.",
+      "correct_answer": "Yanlış",
+      "incorrect_answers": ["Doğru"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Tasarruf",
+      "question": "Canın çok fazla köfte yemek istediği için ablandan sana sipariş vermesini istedin ve o da sipariş verdi.",
+      "correct_answer": "Yanlış",
+      "incorrect_answers": ["Doğru"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Tasarruf",
+      "question": "Aşağıdaki bilgilerden hangisi yanlıştır?",
+      "correct_answer": "Bitmeyecekmiş gibi görünen kaynaklar, insanların bilinçsizce davranışları sonucu hızla artmaktadır.",
+      "incorrect_answers": ["Elektrik, su, besin ve diğer kaynakları özenli ve gerektiği kadar kullanmalıyız.", "Dünyamız, canlıların yaşayabileceği koşullara sahip olduğu bilinen tek gezegendir.", "Tasarruf için kaynaklarımızı bilinçli tüketmeliyiz."]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Tasarruf",
+      "question": "Kaynak tüketiminin artmasında aşağıdakilerden hangisi daha çok etkili olmuştur?",
+      "correct_answer": "Nüfus artışı.",
+      "incorrect_answers": ["Çevre kirliliği.", "Yeni üretim alanları.", "Yeni buluşlar."]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Tasarruf",
+      "question": "Suyun tasarruﬂu kullanımı ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "correct_answer": "Dişlerimizi fırçalarken, elimizi ve yüzümüzü yıkarken musluğu açık bırakmalıyız.",
+      "incorrect_answers": ["Sitelerin ve evlerimizin bahçesine yağmur sularını toplayan su tankları yapılabilir.", "Damlayan muslukların tamir edilmesi ve banyo yaparken suyun uzun süre kullanılmaması su tasarrufu sağlayacaktır.", "Makarna ve sebze haşlama sularını lavaboya dökmek yerine çorbalarımızda kullanabiliriz."]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Tasarruf",
+      "question": "Kaynaklarımızı tüketirken neden özenli davranmalıyız?",
+      "correct_answer": "Kaynaklar sınırlıdır, tükenebilir.",
+      "incorrect_answers": ["Kaynaklar sınırsızdır, kolay tükenmez.", "Her canlının kullandığı kaynak farklıdır.", "Çok tüketim çok üretim ihtiyacı doğurur."]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Tasarruf",
+      "question": "Bilinçli tüketici aşağıdakilerden hangisini yapmaz? ",
+      "correct_answer": "Aldığı ürünün ucuz olmasına dikkat eder.",
+      "incorrect_answers": ["Bir mal ya da hizmeti satın alırken ihtiyaçlarını göz önünde tutar.", "Planlı ve amaçlı alışveriş yapar.", "Satın aldıklarından en üst düzeyde yarar sağlamayı amaçlar."]
+    },
+
+
+
+
+
+
+    {
+      "type": "boolean",
+      "difficulty": "hard",
+      "category": "Entertainment: Books",
+      "question": "Harry Potter was born on July 31st, 1980.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Television",
+      "question": "Out of the 3 Tots in Tots TV, who speaks French in the UK Version and Spanish in the US Version?",
+      "correct_answer": "Tilly",
+      "incorrect_answers": ["Tom", "Tiny", "None of the Above"]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Art",
+      "question": "Leonardo da Vinci was not the creator of the Mona Lisa.",
+      "correct_answer": "False",
+      "incorrect_answers": ["True"]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "medium",
+      "category": "Entertainment: Television",
+      "question": "AMC's \"The Walking Dead\", Rick, Carl, Daryl, Morgan, Carol and Maggie were introduced to us in Season 1.",
+      "correct_answer": "False",
+      "incorrect_answers": ["True"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Books",
+      "question": "Which author and poet famously wrote the line, \"The female of the species is more deadly than the male\"?",
+      "correct_answer": "Rudyard Kipling",
+      "incorrect_answers": ["Edgar Allan Poe", "William Shakespeare", "William Wordsworth"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Music",
+      "question": "Which Death Grips album is the only one to feature a band member?",
+      "correct_answer": "No Love Deep Web",
+      "incorrect_answers": ["Bottomless Pit", "The Money Store", "The Powers That B"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "Who made Garry's Mod?",
+      "correct_answer": "Garry Newman",
+      "incorrect_answers": ["Randy Newman", "Facepunch Studios", "Gabe Newell"]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "medium",
+      "category": "Geography",
+      "question": "Seoul is the capital of North Korea.",
+      "correct_answer": "False",
+      "incorrect_answers": ["True"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Video Games",
+      "question": "Capcom's survival horror title Dead Rising, canonically starts on what day of September 2006?",
+      "correct_answer": "September 19th",
+      "incorrect_answers": ["September 21st", "September 30th", "September 14th"]
+    }
+
+  ]
+}

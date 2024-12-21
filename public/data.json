@@ -61,7 +61,7 @@
       "type": "multiple",
       "difficulty": "medium",
       "category": "Tasarruf",
-      "question": "Aşağıdakilerden hangisi suyu koruyan birinin yaptığı davranıştır",
+      "question": "Aşağıdakilerden hangisi suyu koruyan birinin yaptığı davranıştır?",
       "correct_answer": "Banyo yaparken küvet doldurarak yıkanmak yerine duş almayı tercih eder.",
       "incorrect_answers": ["Evinde muslukları umursamayan.", "Duş süresini uzatarak gereksiz su harcayan.", "Çamaşır ve bulaşık makinelerini tam dolmadan çalıştıran."]
     },

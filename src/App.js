@@ -97,7 +97,7 @@ function App() {
 
     return !userName ? (
         <div className="startScreen">
-            <div className="title">Tasarrufu Biliyorum Oyununa Hoşgeldiniz</div>
+            <div className="title">Tasarruf Yolculuğu Oyununa Hoşgeldiniz</div>
             <Start setUsername={setUserName} />
             <footer>
                 <p className="copyRight">Küçükçekmece Bilsem</p>

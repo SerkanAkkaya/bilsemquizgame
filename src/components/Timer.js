@@ -14,7 +14,7 @@ function Timer({ setTimeOut, questionNumber, timer, setTimer, changeUsed }) {
     }, [timer, setTimeOut]);
 
     useEffect(() => {
-        setTimer(30);
+        setTimer(40);
     }, [questionNumber, changeUsed]);
     return timer;
 }

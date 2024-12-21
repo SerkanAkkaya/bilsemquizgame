@@ -13,7 +13,7 @@
       "type": "boolean",
       "difficulty": "easy",
       "category": "Tasarruf",
-      "question": "Artık kullanmadığın bir eşyanı ikinci el ürün alan sayfalardan satışa çıkardın. DOĞRU",
+      "question": "Artık kullanmadığın bir eşyanı ikinci el ürün alan sayfalardan satışa çıkardın.",
       "correct_answer": "Doğru",
       "incorrect_answers": ["Yanlış"]
     },

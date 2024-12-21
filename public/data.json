@@ -61,9 +61,9 @@
       "type": "multiple",
       "difficulty": "medium",
       "category": "Tasarruf",
-      "question": "Besinlerden tasarruf yapma ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
-      "correct_answer": " Bazen reklamların etkisiyle alışveriş yaparken ihtiyacımız olmayan gıdaları da alabiliriz.",
-      "incorrect_answers": ["Ailece bir alışveriş listesi hazırlayıp bu listeye sadık kalmalıyız.", "Gıda tasarrufu sağlamak için ihtiyaç duymadığımız gıda ürünlerini almamalıyız.", "Temel ihtiyaçlarımızı karşılamak için yalnızca gerektiği kadar gıda alışverişi yapmalıyız."]
+      "question": "Aşağıdakilerden hangisi suyu koruyan birinin yaptığı davranıştır",
+      "correct_answer": "Banyo yaparken küvet doldurarak yıkanmak yerine duş almayı tercih eder.",
+      "incorrect_answers": ["Evinde muslukları umursamayan.", "Duş süresini uzatarak gereksiz su harcayan.", "Çamaşır ve bulaşık makinelerini tam dolmadan çalıştıran."]
     },
     {
       "type": "multiple",

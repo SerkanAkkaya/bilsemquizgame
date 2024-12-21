@@ -81,6 +81,20 @@ function App() {
         );
     };
 
+    const restartGame = () => {
+        setUserName(null);
+        setQuestions([]);
+        setCurrIndex(0);
+        setQuestionNumber(1);
+        setEarn(0);
+        setGameOver(false);
+        setTimeOut(false);
+        setTimer(30);
+        setDoubleTimeUsed(false);
+        setChangeUsed(false);
+        setDataSource("./data.json");
+    };
+
     return !userName ? (
         <div className="startScreen">
             <div className="title">Tasarrufu Biliyorum Oyununa Hoşgeldiniz</div>
@@ -94,10 +108,27 @@ function App() {
             <>
                 <div className="main col-9">
                     {gameOver ? (
-                        <h1>
-                            Oyun Bitti! <br /> <span className="big">{userName}</span> ★{" "}
-                            {earn} puan kazandınız!
-                        </h1>
+                        <div className="endScreen">
+                            <h1>
+                                Oyun Bitti! <br/> <span className="big">{userName}</span> ★{" "}
+                                {earn} puan kazandınız!
+                            </h1>
+                            {/* Tekrar Oyna Butonu */}
+                            <button
+                                onClick={restartGame}
+                                style={{
+                                    padding: "10px 20px",
+                                    backgroundColor: "darkblue",
+                                    color: "white",
+                                    border: "none",
+                                    borderRadius: "5px",
+                                    fontSize: "18px",
+                                    cursor: "pointer",
+                                }}
+                            >
+                                Tekrar Oyna
+                            </button>
+                        </div>
                     ) : timeOut ? (
                         <Timesup
                             userName={userName}

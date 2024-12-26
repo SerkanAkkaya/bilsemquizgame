@@ -100,7 +100,7 @@ function App() {
             <div className="title">Tasarruf Yolculuğu Oyununa Hoşgeldiniz</div>
             <Start setUsername={setUserName} />
             <footer>
-                <p className="copyRight">Küçükçekmece Bilsem</p>
+                <p className="copyRight"></p>
             </footer>
         </div>
     ) : questions.length > 0 ? (
